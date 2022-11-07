@@ -1,7 +1,7 @@
 Halloween Event Script
 
-Requirments:
-<a href="https://github.com/mitlight/es_extended">- es_extended  </a>
+Requirements:
+<a href="https://github.com/mitlight/es_extended">    - es_extended  </a>
   
   
   SQL Code:
